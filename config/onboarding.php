@@ -16,9 +16,9 @@ return [
 	'starter_packs' => [
 		'black-white' => [
 			'title'       => __( 'Black & White', 'genesis-sample' ),
-			'description' => __( 'A pack with a homepage designed with black and white images.', 'genesis-sample' ),
+			'description' => __( 'A pack with a homepage designed with black and white images.', 'Simplist' ),
 			'thumbnail'   => get_stylesheet_directory_uri() . '/config/import/images/thumbnails/home-black-white.jpg',
-			'demo_url'    => 'https://demo.studiopress.com/genesis-sample/',
+			'demo_url'    => 'http://samplist.vercel.app',
 			'config'      => [
 				'dependencies'     => [
 					'plugins' => $genesis_sample_shared_content['plugins'],
@@ -67,7 +67,7 @@ return [
 							'meta_input'     => [
 								'_genesis_layout'     => 'full-width-content',
 								'_genesis_hide_title' => true,
-								'_genesis_hide_breadcrumbs' => true,
+								'_genesis_hide_breadcrumbs' => false,
 								'_genesis_hide_singular_image' => true,
 							],
 						],
