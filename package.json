@@ -1,9 +1,9 @@
 {
-	"name": "genesis-sample",
+	"name": "Simplist",
 	"description": "Development files for the Genesis Framework.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/studiopress/genesis-sample/"
+		"url": "https://github.com/Maliek2/samplist/
 	},
 	"license": "GPL-2.0-or-later",
 	"devDependencies": {
@@ -44,15 +44,15 @@
 	],
 	"theme": {
 		"name": "Genesis Sample",
-		"uri": "https://demo.studiopress.com/genesis-sample/",
+		"uri": "http://samplist.vercel.app/",
 		"description": "The sample child theme for the Genesis Framework.",
 		"author": "StudioPress",
-		"authoruri": "https://www.studiopress.com/",
+		"authoruri": "https://www.adball.tech/",
 		"version": "3.4.1",
 		"tags": "one-column, two-columns, left-sidebar, right-sidebar, accessibility-ready, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready",
 		"license": "GPL-2.0-or-later",
 		"licenseuri": "https://www.gnu.org/licenses/gpl-2.0.html",
-		"textdomain": "genesis-sample"
+		"textdomain": "samplist"
 	},
 	"dependencies": {}
 }
