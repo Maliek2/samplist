@@ -1,6 +1,6 @@
 # Genesis Sample Theme
 
-GitHub project link: https://github.com/studiopress/genesis-sample/.
+GitHub project link: https://github.com/Maliek2/samplist
 
 
 ## Installation Instructions
